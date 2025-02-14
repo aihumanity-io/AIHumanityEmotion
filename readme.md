@@ -1,16 +1,16 @@
-Great! Based on your requirements, I'll generate the following for your GitHub repository:  
+Topics covered in this readme:  
 
 - **Repository Structure** (Organizing SDKs, APIs, and models)  
-- **README.md** (Detailed documentation for setup, usage, and contributions)  
 - **LICENSE** (Choosing an open-source license like MIT, Apache 2.0, etc.)  
 - **CONTRIBUTING.md** (Guidelines for contributors)  
 - **Issue Templates** (Bug report & feature request templates)  
 - **Sample Code & Notebooks** (Example usage in Python & JavaScript)  
-- **GitHub Actions (Optional)** (For CI/CD and model validation)  
+- **GitHub Actions ** (For CI/CD and model validation)  
 
 ---
 
 ### **📁 Proposed Repository Structure**
+This structure is in constant improving or adjustment
 ```
 emotion-detection-sdk/
 │── sdk/
@@ -61,10 +61,8 @@ emotion-detection-sdk/
 ```
 ---
 
-## **📜 README.md (Generated)**
-I'll now generate a detailed `README.md` file for your repo.
+## **📜 README.md **
 
-### **README.md** (Generated)
 
 ```md
 # Emotion Detection SDK & API 🔥🎭  
@@ -198,14 +196,15 @@ We welcome contributions! Please check out our [CONTRIBUTING.md](CONTRIBUTING.md
 ---
 
 ## 📜 **License**
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed for personal use under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+Contact us for comercial use. **Commercial License** 
 
 ---
 
 ## 📫 **Contact & Support**
 - 📧 Email: `support@aihumanity.io`
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Website: [yourdomain.com](https://aihumanity.io)
+- 🐦 Twitter: [@aihumanitypro](https://x.com/aihumanitypro)
+- 🌐 Website: [aihumanity.com](https://aihumanity.io)
 
 ---
 
@@ -214,9 +213,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-### **Next Steps**
-1. Do you want me to generate **`CONTRIBUTING.md`**, **issue templates**, and **CI/CD workflows**?  
-2. Do you want me to modify anything in the **README**?  
-3. Do you have a GitHub repo link where I can push these files?  
 
  🚀
